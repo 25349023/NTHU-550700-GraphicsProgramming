@@ -1,3 +1,6 @@
 [submodule "HW1-Robot"]
 	path = HW1-Robot
 	url = https://github.com/25349023/OpenGL-Robot
+[submodule "HW2-PostProcessing"]
+	path = HW2-PostProcessing
+	url = https://github.com/25349023/OpenGL-PostProcessing

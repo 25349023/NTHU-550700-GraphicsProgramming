@@ -7,3 +7,6 @@
 [submodule "HW3-GPU-DrivenRendering"]
 	path = HW3-GPU-DrivenRendering
 	url = https://github.com/25349023/OpenGL-GPUDrivenRendering.git
+[submodule "Final-IndoorRendering"]
+	path = Final-IndoorRendering
+	url = https://github.com/25349023/OpenGL-IndoorRendering.git

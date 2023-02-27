@@ -4,3 +4,6 @@
 [submodule "HW2-PostProcessing"]
 	path = HW2-PostProcessing
 	url = https://github.com/25349023/OpenGL-PostProcessing
+[submodule "HW3-GPU-DrivenRendering"]
+	path = HW3-GPU-DrivenRendering
+	url = https://github.com/25349023/OpenGL-GPUDrivenRendering.git
